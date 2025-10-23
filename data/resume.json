@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Conner H",
-    "label": "Software Engineer · Frontend",
+    "name": "Conner Hawkins",
+    "label": "BYU CS Major",
     "picture": "https://via.placeholder.com/150",
-    "email": "conner@example.com",
-    "summary": "Product-minded frontend engineer who crafts performant, accessible, and delightful user interfaces. Experienced shipping web apps and design systems.",
+    "email": "hconner@gmail.com",
+    "summary": "Driven CS major with a strong coding foundation and proven work ethic. Adaptable across technical and customer-facing roles, I excel at solving complex problems and managing large tasks. I bring innovation, leadership, and collaboration to every team.",
     "profiles": [
       {"network":"GitHub", "url":"https://github.com/ConnerH1123"},
-      {"network":"LinkedIn", "url":"https://linkedin.com/in/ConnerH1123"}
+      {"network":"LinkedIn", "url":"www.linkedin.com/in/conner-hawkins-walla-walla"}
     ],
-    "keywords": ["JavaScript", "TypeScript", "React", "Design Systems", "Performance", "Accessibility"],
+    "keywords": ["Python", "C++", "JavaScript", "Batch"],
     "resumePdf": "resume/ConnerH_Resume.pdf"
   },
   "work": [
@@ -36,11 +36,12 @@
     {"name": "Testing & Quality", "level": 70, "keywords": ["Jest", "Cypress", "Accessibility testing"]}
   ],
   "languages": [
-    {"language": "English", "fluency": "Native"}
+    {"language": "English", "fluency": "Native"},
+    {"language": "Spanish", "fluency": "Advanced"}
   ],
   "projects": [
     {
-      "name": "Resume Website",
+      "name": "Conner Hawkins Personal Website",
       "description": "A clean, animated, and printable single-page resume site you can host on GitHub Pages.",
       "keywords": ["HTML", "CSS", "JavaScript"],
       "url": ""
