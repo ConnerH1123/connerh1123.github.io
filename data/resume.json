@@ -1,0 +1,49 @@
+{
+  "basics": {
+    "name": "Conner H",
+    "label": "Software Engineer · Frontend",
+    "picture": "https://via.placeholder.com/150",
+    "email": "conner@example.com",
+    "summary": "Product-minded frontend engineer who crafts performant, accessible, and delightful user interfaces. Experienced shipping web apps and design systems.",
+    "profiles": [
+      {"network":"GitHub", "url":"https://github.com/ConnerH1123"},
+      {"network":"LinkedIn", "url":"https://linkedin.com/in/ConnerH1123"}
+    ],
+    "keywords": ["JavaScript", "TypeScript", "React", "Design Systems", "Performance", "Accessibility"],
+    "resumePdf": "resume/ConnerH_Resume.pdf"
+  },
+  "work": [
+    {
+      "company": "Your Company",
+      "position": "Senior Frontend Engineer",
+      "startDate": "2023",
+      "endDate": "Present",
+      "location": "Remote",
+      "summary": "Leading frontend architecture, mentoring engineers, and improving performance across core products."
+    },
+    {
+      "company": "Previous Co",
+      "position": "Frontend Engineer",
+      "startDate": "2020",
+      "endDate": "2023",
+      "location": "City, Country",
+      "summary": "Built features and components, collaborated with design, and shipped cross-browser performant pages."
+    }
+  ],
+  "skills": [
+    {"name": "Frontend", "level": 92, "keywords": ["React", "TypeScript", "CSS"]},
+    {"name": "Design & Prototyping", "level": 75, "keywords": ["Figma", "Prototyping", "Accessibility"]},
+    {"name": "Testing & Quality", "level": 70, "keywords": ["Jest", "Cypress", "Accessibility testing"]}
+  ],
+  "languages": [
+    {"language": "English", "fluency": "Native"}
+  ],
+  "projects": [
+    {
+      "name": "Resume Website",
+      "description": "A clean, animated, and printable single-page resume site you can host on GitHub Pages.",
+      "keywords": ["HTML", "CSS", "JavaScript"],
+      "url": ""
+    }
+  ]
+}
