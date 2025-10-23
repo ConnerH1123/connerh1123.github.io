@@ -10,30 +10,19 @@
       {"network":"LinkedIn", "url":"www.linkedin.com/in/conner-hawkins-walla-walla"}
     ],
     "keywords": ["Python", "C++", "JavaScript", "Batch"],
-    "resumePdf": "resume/ConnerH_Resume.pdf"
+    "resumePdf": "Conner Hawkins Resume.pdf"
   },
   "work": [
     {
-      "company": "Your Company",
-      "position": "Senior Frontend Engineer",
-      "startDate": "2023",
+      "company": "Rocky Mountain Reserve",
+      "position": "Customer Service Representative",
+      "startDate": "2025",
       "endDate": "Present",
-      "location": "Remote",
-      "summary": "Leading frontend architecture, mentoring engineers, and improving performance across core products."
+      "location": "Orem, UT",
+      "summary": "Help participants mitigate problems related to managing their health benefits accounts and COBRA insurance coverage"
     },
-    {
-      "company": "Previous Co",
-      "position": "Frontend Engineer",
-      "startDate": "2020",
-      "endDate": "2023",
-      "location": "City, Country",
-      "summary": "Built features and components, collaborated with design, and shipped cross-browser performant pages."
-    }
-  ],
   "skills": [
-    {"name": "Frontend", "level": 92, "keywords": ["React", "TypeScript", "CSS"]},
-    {"name": "Design & Prototyping", "level": 75, "keywords": ["Figma", "Prototyping", "Accessibility"]},
-    {"name": "Testing & Quality", "level": 70, "keywords": ["Jest", "Cypress", "Accessibility testing"]}
+    {"name": "Design & Prototyping", "level": 75, "keywords": ["Python", "C++"]}
   ],
   "languages": [
     {"language": "English", "fluency": "Native"},
@@ -41,7 +30,7 @@
   ],
   "projects": [
     {
-      "name": "Conner Hawkins Personal Website",
+      "name": "Personal Website",
       "description": "A clean, animated, and printable single-page resume site you can host on GitHub Pages.",
       "keywords": ["HTML", "CSS", "JavaScript"],
       "url": ""
