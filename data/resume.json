@@ -7,7 +7,7 @@
     "summary": "Driven CS major with a strong coding foundation and proven work ethic. Adaptable across technical and customer-facing roles, I excel at solving complex problems and managing large tasks. I bring innovation, leadership, and collaboration to every team.",
     "profiles": [
       {"network":"GitHub", "url":"https://github.com/ConnerH1123"},
-      {"network":"LinkedIn", "url":"www.linkedin.com/in/conner-hawkins-walla-walla"}
+      {"network":"LinkedIn", "url":"https://www.linkedin.com/in/conner-hawkins-walla-walla/"}
     ],
     "keywords": ["Python", "C++", "JavaScript", "Batch"],
     "resumePdf": "Conner Hawkins Resume.pdf"
@@ -31,10 +31,10 @@
   ],
   "projects": [
     {
-      "name": "Personal Website",
-      "description": "A clean, animated, and printable single-page resume site you can host on GitHub Pages.",
-      "keywords": ["HTML", "CSS", "JavaScript"],
-      "url": ""
+      "name": "Assignment Consolidator",
+      "description": "Navigates 2FA to scrape upcoming assignment info from Canvas and Learning Suite simultaneously",
+      "keywords": ["Python", "Webscraping"],
+      "url": "https://github.com/ConnerH1123/college-assignment-consolidator"
     }
   ]
 }
