@@ -108,7 +108,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 function getFallbackResume(){
   return {
     basics: {
-      name: "Your Name",
+      name: "Conner Hawkins",
       label: "Product Engineer · Frontend",
       picture: "https://via.placeholder.com/150",
       email: "you@domain.com",
