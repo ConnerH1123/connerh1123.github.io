@@ -20,7 +20,8 @@
       "endDate": "Present",
       "location": "Orem, UT",
       "summary": "Help participants mitigate problems related to managing their health benefits accounts and COBRA insurance coverage"
-    },
+    }
+  ]
   "skills": [
     {"name": "Design & Prototyping", "level": 75, "keywords": ["Python", "C++"]}
   ],
