@@ -1,6 +1,6 @@
 // app.js — simple dynamic builder for resume site
 document.addEventListener('DOMContentLoaded', async () => {
-  const data = await fetch('data/resume.json').then(r => r.json()).catch(()=>null);
+  const data = await fetch('/data/resume.json').then(r => r.json()).catch(()=>null);
   if(!data){
     console.warn('Could not load resume.json — using inline defaults.');
   }
