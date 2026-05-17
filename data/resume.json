@@ -39,7 +39,7 @@
     {
       "name": "Chess Server",
       "description": "Full-stack chess application built as a course project for BYU CS 240",
-      "keywords": ["Java", "client-server architecture", "server"],
+      "keywords": ["Java"],
       "url": "https://github.com/ConnerH1123/chess"
     }
   ]
