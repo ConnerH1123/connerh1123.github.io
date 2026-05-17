@@ -9,7 +9,7 @@
       {"network":"GitHub", "url":"https://github.com/ConnerH1123"},
       {"network":"LinkedIn", "url":"https://www.linkedin.com/in/conner-hawkins-walla-walla/"}
     ],
-    "keywords": ["Python", "C++", "JavaScript", "Batch"],
+    "keywords": ["Python", "C++", "Java", "C"],
     "resumePdf": "Conner Hawkins Resume.pdf"
   },
   "work": [
@@ -23,7 +23,7 @@
     }
   ],
   "skills": [
-    {"name": "Design & Prototyping", "level": 75, "keywords": ["Python", "C++"]}
+    {"name": "Design & Prototyping", "level": 75, "keywords": ["Python", "C++", "C", "Java"]}
   ],
   "languages": [
     {"language": "English", "fluency": "Native"},
@@ -35,6 +35,12 @@
       "description": "Navigates 2FA to scrape upcoming assignment info from Canvas and Learning Suite simultaneously",
       "keywords": ["Python", "Webscraping"],
       "url": "https://github.com/ConnerH1123/college-assignment-consolidator"
+    },
+    {
+      "name": "Chess Server",
+      "description": "Full-stack chess application built as a course project for BYU CS 240",
+      "keywords": ["Java", "client-server architecture", "server"],
+      "url": "https://github.com/ConnerH1123/chess"
     }
   ]
 }
